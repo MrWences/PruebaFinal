@@ -1,0 +1,13 @@
+C:\Users\codig\source\repos\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe.config
+C:\Users\codig\source\repos\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe
+C:\Users\codig\source\repos\ProyectoPrueba\bin\Debug\ProyectoPrueba.pdb
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.AssemblyReference.cache
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.Form1.resources
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.Medicos.resources
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.Pacientes.resources
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.Properties.Resources.resources
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.GenerateResource.cache
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.exe
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.pdb
+C:\Users\codig\source\repos\ProyectoPrueba\obj\Debug\ProyectoPrueba.Agendar.resources
